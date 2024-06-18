@@ -3,7 +3,7 @@
 
   <!-- Aosp Forks -->
   <project path="art" name="SlimRoms/android_art" />
-  <project path="bionic" name="SlimRoms/android_bionic" />
+  <project path="bionic" name="slim-marmalade/android_bionic" />
   <project path="bootable/recovery" name="SlimRoms/bootable_recovery" />
   <project path="build/kati" name="SlimRoms/android_build_kati" />
   <project path="external/aac" name="SlimRoms/android_external_aac" />
